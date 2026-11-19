@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Deposita.CashOperations.API/Deposita.CashOperations.API.csproj" />
+  <Project Path="Deposita.CashOperations.Application/Deposita.CashOperations.Application.csproj" />
+  <Project Path="Deposita.CashOperations.Domain/Deposita.CashOperations.Domain.csproj" />
+  <Project Path="Deposita.CashOperations.Persistence/Deposita.CashOperations.Persistence.csproj" />
+  <Project Path="Deposita.CashOperations.UnitTests/Deposita.CashOperations.UnitTests.csproj" />
+</Solution>

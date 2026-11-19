@@ -1,0 +1,55 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Logs
+*.log
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+
+
+# Publish output
+publish/
+
+# Test Results
+TestResults/
+coverage/
+coverage-report/
+
+# Entity Framework
+*.dbmdl
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Angular
+node_modules/
+dist/
+.angular/
+.cache/
+coverage/
+
+# NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Generated files
+wwwroot/lib/
