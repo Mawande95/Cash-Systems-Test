@@ -1,0 +1,33 @@
+mat-dialog-content {
+    display: flex;
+    flex-direction: column;
+     padding-top: 10px !important;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+
+mat-form-field {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.mat-mdc-dialog-content {
+    padding-top: 10px;
+}
+
+
+.mat-mdc-dialog-title {
+    color: #005f8f;
+    font-weight: 600;
+}
+
+.mat-mdc-raised-button,
+.mat-mdc-unelevated-button {
+    background: #005f8f !important;
+    color: white !important;
+}

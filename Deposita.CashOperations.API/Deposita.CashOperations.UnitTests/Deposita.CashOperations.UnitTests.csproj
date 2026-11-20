@@ -18,4 +18,9 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Deposita.CashOperations.Application\Deposita.CashOperations.Application.csproj" />
+    <ProjectReference Include="..\Deposita.CashOperations.Domain\Deposita.CashOperations.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

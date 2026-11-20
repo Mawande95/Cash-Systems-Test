@@ -13,7 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Deposita.CashOperations.Application\Deposita.CashOperations.Application.csproj" />
+    <ProjectReference Include="..\Deposita.CashOperations.Persistence\Deposita.CashOperations.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
