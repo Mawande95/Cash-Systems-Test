@@ -1,0 +1,49 @@
+.header-toolbar {
+  height: 80px;
+  padding: 0 32px;
+  width: 100%;
+
+  background: linear-gradient(
+    90deg,
+    #005f8f,
+    #00476b
+  );
+
+  color: white;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.brand-section {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.logo-box {
+  width: 48px;
+  height: 48px;
+
+  border-radius: 12px;
+
+  background: #e53935;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-box mat-icon {
+  color: white;
+}
+
+.app-title {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.app-subtitle {
+  font-size: 13px;
+  opacity: 0.9;
+}
